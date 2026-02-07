@@ -1,0 +1,45 @@
+{
+  "system": {
+    "product": "Surface Laptop 5",
+    "bios": "3.2.140",
+    "os_build": "22631.3296",
+    "report_time": "2024-09-12 09:12:40"
+  },
+  "battery": {
+    "name": "BATTERY 1",
+    "manufacturer": "SMP",
+    "chemistry": "Li-I",
+    "design_capacity_mwh": 58000,
+    "full_charge_capacity_mwh": 45200,
+    "cycle_count": 412
+  },
+  "health": {
+    "health_percentage": 77.93,
+    "degradation_percentage": 22.07,
+    "cycle_penalty": 0,
+    "estimated_remaining_life": "12-18 months"
+  },
+  "history": [
+    {
+      "date": "2023-12-01",
+      "full_charge_capacity_mwh": 50380,
+      "design_capacity_mwh": 58000
+    },
+    {
+      "date": "2024-03-01",
+      "full_charge_capacity_mwh": 47250,
+      "design_capacity_mwh": 58000
+    },
+    {
+      "date": "2024-06-01",
+      "full_charge_capacity_mwh": 45810,
+      "design_capacity_mwh": 58000
+    },
+    {
+      "date": "2024-09-01",
+      "full_charge_capacity_mwh": 45200,
+      "design_capacity_mwh": 58000
+    }
+  ],
+  "generated_at": "2024-09-12T13:12:40Z"
+}
